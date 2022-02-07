@@ -8,6 +8,8 @@ with customers as (
 
     from dbt.jaffle_shop_customers
 
+
 )
 
-select * from customers
+select * from customers 
+
